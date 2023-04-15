@@ -13,7 +13,7 @@ $('.owl-carousel').owlCarousel({
             items: 1
         }
     },autoplay:true,
-    autoplayTimeout:1500,
+    autoplayTimeout:2500,
     autoplayHoverPause:true
     });
     $('.play').on('click',function(){

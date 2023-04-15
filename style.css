@@ -295,7 +295,7 @@ nav{
     background-color: #FFD429;
 }
 
-@media (max-width : 768px)
+@media screen and (max-width : 768px)
 {
     .container{
         flex-direction: column;
@@ -533,7 +533,7 @@ nav{
     }
 }
 
-@media (max-width:480px){
+@media screen and (max-width:480px){
     .hero{
         min-height: 400px;
     }
